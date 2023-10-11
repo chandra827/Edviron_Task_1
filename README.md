@@ -1,6 +1,6 @@
 # Edviron Task1
 API's for interacting with a lambda function that fetches list of defaulters.
-Hosted url --> [http://35.173.219.77:8000/defaulters](https://zmyf6n2ok3.execute-api.us-east-1.amazonaws.com/prod/api/defaulters)
+Hosted url --> https://zmyf6n2ok3.execute-api.us-east-1.amazonaws.com/prod/api/defaulters
 
 ## API Reference
 This backend system provides following endpoints
